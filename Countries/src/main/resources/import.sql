@@ -1,0 +1,8 @@
+insert into country(capital,name) values('Earth','World')
+insert into country(capital,name) values('China','Peking')
+insert into country(capital,name) values('Germany','Berling')
+insert into country(capital,name) values('USA','Washington')
+insert into country(capital,name) values('Russia','Moscow')
+insert into country(capital,name) values('Namibia','WindHoek')
+insert into country(capital,name) values('India','New Delhi')
+insert into country(capital,name) values('Nouth Korea','Pyongyang')
